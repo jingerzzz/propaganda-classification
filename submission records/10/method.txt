@@ -1,0 +1,1 @@
+sklearn multiclass multinomialNB + ngram(1,1),max_feature=10000 

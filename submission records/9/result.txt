@@ -1,0 +1,33 @@
+Dear team 'UMSIForeseer', thanks for your submission!
+The file my-output-TC_v9.txt has been uploaded.
+Scoring your file...
+2020-02-24 18:55:56,627 - INFO - Checking format: User Predictions -- Gold Annotations
+2020-02-24 18:55:56,628 - INFO - OK: submission file format appears to be correct
+2020-02-24 18:55:56,676 - INFO - Scoring submission
+F1=0.456256
+Precision=0.456256
+Recall=0.456256
+F1_Appeal_to_Authority=0.0
+F1_Appeal_to_fear-prejudice=0.12658227848101264
+F1_Bandwagon,Reductio_ad_hitlerum=0.0
+F1_Black-and-White_Fallacy=0.1714285714285714
+F1_Causal_Oversimplification=0.2777777777777778
+F1_Doubt=0.31932773109243695
+F1_Exaggeration,Minimisation=0.26153846153846155
+F1_Flag-Waving=0.6785714285714286
+F1_Loaded_Language=0.6352128883774454
+F1_Name_Calling,Labeling=0.5214899713467048
+F1_Repetition=0.04145077720207254
+F1_Slogans=0.23333333333333334
+F1_Thought-terminating_Cliches=0.0
+F1_Whataboutism,Straw_Men,Red_Herring=0.05714285714285715
+
+Date	F1	F1 Appeal_to_Authority	F1 Appeal_to_fear-prejudice	F1 Bandwagon,Reductio_ad_hitlerum	F1 Black-and-White_Fallacy	F1 Causal_Oversimplification	F1 Doubt	F1 Exaggeration,Minimisation	F1 Flag-Waving	F1 Loaded_Language	F1 Name_Calling,Labeling	F1 Repetition	F1 Slogans	F1 Thought-terminating_Cliches	F1 Whataboutism,Straw_Men,Red_Herring
+February 24 18:55:55	0.45626	0.00000	0.12658	0.00000	0.17143	0.27778	0.31933	0.26154	0.67857	0.63521	0.52149	0.04145	0.23333	0.00000	0.05714
+BACK TO TEAM PAGE
+
+training score:
+ micro average:0.9523576439875999
+for each class:[0.97202797 0.95818815 0.96453901 0.96803653 0.99043062 0.98979592
+ 0.94573643 0.94849785 0.96155628 0.96078431 0.86073826 0.90697674
+ 0.91780822 0.99534884]

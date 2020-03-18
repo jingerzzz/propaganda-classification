@@ -1,0 +1,1 @@
+sklearn multiclass logistic regression + ngram(1,3),max_feature=10000 
